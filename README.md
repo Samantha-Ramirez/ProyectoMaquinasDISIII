@@ -1,2 +1,2 @@
-# Proyecto Máquinas
+# Proyecto Máquinas de Turing
  
