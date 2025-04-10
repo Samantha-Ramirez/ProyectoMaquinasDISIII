@@ -1,2 +1,2 @@
-# TareaMaquinasDISIII
+# Proyecto Máquinas
  
